@@ -1,0 +1,8 @@
+{
+  "name": "KTS Event Planning & Management",
+  "description": "A luxury event management platform for Rawalpindi, featuring multi-service booking, 3D previews, real-time chat, and an administrative dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
